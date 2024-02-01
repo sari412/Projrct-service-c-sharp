@@ -1,0 +1,57 @@
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\bin\Debug\net6.0\BL.deps.json
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\bin\Debug\net6.0\BL.dll
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\bin\Debug\net6.0\BL.pdb
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\obj\Debug\net6.0\BL.dll
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\obj\Debug\net6.0\refint\BL.dll
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\obj\Debug\net6.0\BL.pdb
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\BL\obj\Debug\net6.0\ref\BL.dll
+F:\יד\C#\project\DAL\BL\bin\Debug\net6.0\BL.deps.json
+F:\יד\C#\project\DAL\BL\bin\Debug\net6.0\BL.dll
+F:\יד\C#\project\DAL\BL\bin\Debug\net6.0\BL.pdb
+F:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+F:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+F:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+F:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+F:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.dll
+F:\יד\C#\project\DAL\BL\obj\Debug\net6.0\refint\BL.dll
+F:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.pdb
+F:\יד\C#\project\DAL\BL\obj\Debug\net6.0\ref\BL.dll
+F:\יד\C#\project\DAL\BL\bin\Debug\net6.0\DAL.dll
+F:\יד\C#\project\DAL\BL\bin\Debug\net6.0\DAL.pdb
+F:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+E:\יד\C#\project\DAL\BL\bin\Debug\net6.0\BL.deps.json
+E:\יד\C#\project\DAL\BL\bin\Debug\net6.0\BL.dll
+E:\יד\C#\project\DAL\BL\bin\Debug\net6.0\BL.pdb
+E:\יד\C#\project\DAL\BL\bin\Debug\net6.0\DAL.dll
+E:\יד\C#\project\DAL\BL\bin\Debug\net6.0\DAL.pdb
+E:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+E:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+E:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+E:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+E:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+E:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.dll
+E:\יד\C#\project\DAL\BL\obj\Debug\net6.0\refint\BL.dll
+E:\יד\C#\project\DAL\BL\obj\Debug\net6.0\BL.pdb
+E:\יד\C#\project\DAL\BL\obj\Debug\net6.0\ref\BL.dll
+M:\c#\project\DAL\BL\bin\Debug\net6.0\BL.deps.json
+M:\c#\project\DAL\BL\bin\Debug\net6.0\BL.dll
+M:\c#\project\DAL\BL\bin\Debug\net6.0\BL.pdb
+M:\c#\project\DAL\BL\bin\Debug\net6.0\DAL.dll
+M:\c#\project\DAL\BL\bin\Debug\net6.0\DAL.pdb
+M:\c#\project\DAL\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+M:\c#\project\DAL\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#\project\DAL\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+M:\c#\project\DAL\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+M:\c#\project\DAL\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+M:\c#\project\DAL\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+M:\c#\project\DAL\BL\obj\Debug\net6.0\BL.dll
+M:\c#\project\DAL\BL\obj\Debug\net6.0\refint\BL.dll
+M:\c#\project\DAL\BL\obj\Debug\net6.0\BL.pdb
+M:\c#\project\DAL\BL\obj\Debug\net6.0\ref\BL.dll

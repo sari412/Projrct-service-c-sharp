@@ -1,0 +1,56 @@
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\bin\Debug\net6.0\DAL.dll
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\obj\Debug\net6.0\DAL.dll
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\קבוצה 1\C#\הגשת שב\8\זיסי גפן\project\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+F:\יד\C#\project\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\יד\C#\project\DAL\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+F:\יד\C#\project\DAL\DAL\bin\Debug\net6.0\DAL.dll
+F:\יד\C#\project\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+F:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.dll
+F:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+F:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+F:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\יד\C#\project\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\יד\C#\project\DAL\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\יד\C#\project\DAL\DAL\bin\Debug\net6.0\DAL.dll
+E:\יד\C#\project\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+E:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.dll
+E:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+E:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\יד\C#\project\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+M:\c#\project\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+M:\c#\project\DAL\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+M:\c#\project\DAL\DAL\bin\Debug\net6.0\DAL.dll
+M:\c#\project\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+M:\c#\project\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+M:\c#\project\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#\project\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+M:\c#\project\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+M:\c#\project\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+M:\c#\project\DAL\DAL\obj\Debug\net6.0\DAL.dll
+M:\c#\project\DAL\DAL\obj\Debug\net6.0\refint\DAL.dll
+M:\c#\project\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+M:\c#\project\DAL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+M:\c#\project\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
