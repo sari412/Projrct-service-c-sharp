@@ -54,3 +54,17 @@ M:\c#\project\DAL\DAL\obj\Debug\net6.0\refint\DAL.dll
 M:\c#\project\DAL\DAL\obj\Debug\net6.0\DAL.pdb
 M:\c#\project\DAL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
 M:\c#\project\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+M:\Projrct-service-c-sharp\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+M:\Projrct-service-c-sharp\DAL\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+M:\Projrct-service-c-sharp\DAL\DAL\bin\Debug\net6.0\DAL.dll
+M:\Projrct-service-c-sharp\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+M:\Projrct-service-c-sharp\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+M:\Projrct-service-c-sharp\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+M:\Projrct-service-c-sharp\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+M:\Projrct-service-c-sharp\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+M:\Projrct-service-c-sharp\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+M:\Projrct-service-c-sharp\DAL\DAL\obj\Debug\net6.0\DAL.dll
+M:\Projrct-service-c-sharp\DAL\DAL\obj\Debug\net6.0\refint\DAL.dll
+M:\Projrct-service-c-sharp\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+M:\Projrct-service-c-sharp\DAL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+M:\Projrct-service-c-sharp\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll

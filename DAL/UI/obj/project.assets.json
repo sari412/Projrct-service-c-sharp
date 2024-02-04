@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\יד\\C#\\project\\DAL\\UI\\UI.csproj",
+      "projectUniqueName": "M:\\Projrct-service-c-sharp\\DAL\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "F:\\יד\\C#\\project\\DAL\\UI\\UI.csproj",
+      "projectPath": "M:\\Projrct-service-c-sharp\\DAL\\UI\\UI.csproj",
       "packagesPath": "C:\\Users\\326076734\\.nuget\\packages\\",
-      "outputPath": "F:\\יד\\C#\\project\\DAL\\UI\\obj\\",
+      "outputPath": "M:\\Projrct-service-c-sharp\\DAL\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\326076734\\AppData\\Roaming\\NuGet\\NuGet.Config",

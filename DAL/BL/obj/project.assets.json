@@ -1934,11 +1934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\יד\\C#\\project\\DAL\\BL\\BL.csproj",
+      "projectUniqueName": "M:\\Projrct-service-c-sharp\\DAL\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "F:\\יד\\C#\\project\\DAL\\BL\\BL.csproj",
+      "projectPath": "M:\\Projrct-service-c-sharp\\DAL\\BL\\BL.csproj",
       "packagesPath": "C:\\Users\\326076734\\.nuget\\packages\\",
-      "outputPath": "F:\\יד\\C#\\project\\DAL\\BL\\obj\\",
+      "outputPath": "M:\\Projrct-service-c-sharp\\DAL\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\326076734\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1955,8 +1955,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\יד\\C#\\project\\DAL\\DAL\\DAL.csproj": {
-              "projectPath": "F:\\יד\\C#\\project\\DAL\\DAL\\DAL.csproj"
+            "M:\\Projrct-service-c-sharp\\DAL\\DAL\\DAL.csproj": {
+              "projectPath": "M:\\Projrct-service-c-sharp\\DAL\\DAL\\DAL.csproj"
             }
           }
         }

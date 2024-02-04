@@ -2378,11 +2378,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\יד\\C#\\project\\DAL\\Servise\\Servise.csproj",
+      "projectUniqueName": "M:\\Projrct-service-c-sharp\\DAL\\Servise\\Servise.csproj",
       "projectName": "Servise",
-      "projectPath": "F:\\יד\\C#\\project\\DAL\\Servise\\Servise.csproj",
+      "projectPath": "M:\\Projrct-service-c-sharp\\DAL\\Servise\\Servise.csproj",
       "packagesPath": "C:\\Users\\326076734\\.nuget\\packages\\",
-      "outputPath": "F:\\יד\\C#\\project\\DAL\\Servise\\obj\\",
+      "outputPath": "M:\\Projrct-service-c-sharp\\DAL\\Servise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\326076734\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2400,8 +2400,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\יד\\C#\\project\\DAL\\BL\\BL.csproj": {
-              "projectPath": "F:\\יד\\C#\\project\\DAL\\BL\\BL.csproj"
+            "M:\\Projrct-service-c-sharp\\DAL\\BL\\BL.csproj": {
+              "projectPath": "M:\\Projrct-service-c-sharp\\DAL\\BL\\BL.csproj"
             }
           }
         }

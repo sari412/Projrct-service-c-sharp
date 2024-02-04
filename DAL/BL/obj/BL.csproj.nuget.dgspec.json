@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\יד\\C#\\project\\DAL\\BL\\BL.csproj": {}
+    "M:\\Projrct-service-c-sharp\\DAL\\BL\\BL.csproj": {}
   },
   "projects": {
-    "F:\\יד\\C#\\project\\DAL\\BL\\BL.csproj": {
+    "M:\\Projrct-service-c-sharp\\DAL\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\יד\\C#\\project\\DAL\\BL\\BL.csproj",
+        "projectUniqueName": "M:\\Projrct-service-c-sharp\\DAL\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "F:\\יד\\C#\\project\\DAL\\BL\\BL.csproj",
+        "projectPath": "M:\\Projrct-service-c-sharp\\DAL\\BL\\BL.csproj",
         "packagesPath": "C:\\Users\\326076734\\.nuget\\packages\\",
-        "outputPath": "F:\\יד\\C#\\project\\DAL\\BL\\obj\\",
+        "outputPath": "M:\\Projrct-service-c-sharp\\DAL\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\326076734\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\יד\\C#\\project\\DAL\\DAL\\DAL.csproj": {
-                "projectPath": "F:\\יד\\C#\\project\\DAL\\DAL\\DAL.csproj"
+              "M:\\Projrct-service-c-sharp\\DAL\\DAL\\DAL.csproj": {
+                "projectPath": "M:\\Projrct-service-c-sharp\\DAL\\DAL\\DAL.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "F:\\יד\\C#\\project\\DAL\\DAL\\DAL.csproj": {
+    "M:\\Projrct-service-c-sharp\\DAL\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\יד\\C#\\project\\DAL\\DAL\\DAL.csproj",
+        "projectUniqueName": "M:\\Projrct-service-c-sharp\\DAL\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "F:\\יד\\C#\\project\\DAL\\DAL\\DAL.csproj",
+        "projectPath": "M:\\Projrct-service-c-sharp\\DAL\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\326076734\\.nuget\\packages\\",
-        "outputPath": "F:\\יד\\C#\\project\\DAL\\DAL\\obj\\",
+        "outputPath": "M:\\Projrct-service-c-sharp\\DAL\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\326076734\\AppData\\Roaming\\NuGet\\NuGet.Config",
